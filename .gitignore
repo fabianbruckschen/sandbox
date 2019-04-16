@@ -2,6 +2,7 @@
 *.csv
 *.crc
 *.pickle
+*.png
 
 # Compiled python modules
 *.pyc
